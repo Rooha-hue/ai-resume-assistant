@@ -1,3 +1,4 @@
+# ai-resume-assistant
 # 📄 ATS Resume Checker
 
 Upload a resume (PDF, DOCX or TXT) and get an **estimated ATS score**, a score breakdown,
